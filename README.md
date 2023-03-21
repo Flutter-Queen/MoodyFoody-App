@@ -1,38 +1,16 @@
-# MoodyFoody-App
-Show results base on your mood
+# moody_foody
 
+A new Flutter project.
 
-## Preview 👇
-![mody](https://user-images.githubusercontent.com/41040479/226579770-db80f033-9ccc-46d4-873e-d3bdfed0e800.png)
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-## PACKAGES:
-- flutter_launcher_icons
-- flutter_staggered_grid_view
-- google_fonts
-- page_transition
-- splashscreen
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## ⚙️ Built with Amazing Tools
-- [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
-- [Android Studio](https://developer.android.com/studio) - Tools for building Awesome apps on every type of Android device.
-- [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
-
-
-## 🐛 Bugs/Requests
-If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
-
-
-
-## 😍	Show Some Support 😍
-
-If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement! ^^
-
-- [Instagram](https://www.instagram.com/_flutter.queen/)
-- [Medium](https://medium.com/@flutterqueen5)
-- [Facebook](https://www.facebook.com/flutter.queen/)
-- [Twitter](https://twitter.com/Queen33322)
-- [DEV](https://dev.to/areedev)
-
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
